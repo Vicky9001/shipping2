@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff0f1b68-84ee-41cf-aeeb-1299f19a248b" name="Changes" comment="修改一下" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="E:\Desktop" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Q5IQs4JhhGFxMRc8o9OVjdxQcT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Desktop&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;15f149bcedce0edd4a4df10650d97be2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.shipping.models" />
+      <recent name="com.example.shipping.repository" />
+      <recent name="com.example.shipping.controllers" />
+      <recent name="com.example.shipping.payload.request" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringBootShippingApplication">
+    <configuration name="OrderControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shipping-new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.shipping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.shipping" />
+      <option name="MAIN_CLASS_NAME" value="com.example.shipping.OrderControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderControllerTest.testChangeState" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shipping-new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.shipping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.shipping" />
+      <option name="MAIN_CLASS_NAME" value="com.example.shipping.OrderControllerTest" />
+      <option name="METHOD_NAME" value="testChangeState" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderControllerTest.testCreateOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shipping-new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.shipping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.shipping" />
+      <option name="MAIN_CLASS_NAME" value="com.example.shipping.OrderControllerTest" />
+      <option name="METHOD_NAME" value="testCreateOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderControllerTest.testTransfer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shipping-new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.shipping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.shipping" />
+      <option name="MAIN_CLASS_NAME" value="com.example.shipping.OrderControllerTest" />
+      <option name="METHOD_NAME" value="testTransfer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderControllerTest.testUpdateOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shipping-new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.shipping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.shipping" />
+      <option name="MAIN_CLASS_NAME" value="com.example.shipping.OrderControllerTest" />
+      <option name="METHOD_NAME" value="testUpdateOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootShippingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shipping-new" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.shipping.SpringBootShippingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OrderControllerTest" />
+        <item itemvalue="JUnit.OrderControllerTest.testChangeState" />
+        <item itemvalue="JUnit.OrderControllerTest.testTransfer" />
+        <item itemvalue="JUnit.OrderControllerTest.testUpdateOrder" />
+        <item itemvalue="JUnit.OrderControllerTest.testCreateOrder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff0f1b68-84ee-41cf-aeeb-1299f19a248b" name="Changes" comment="" />
+      <created>1684637004949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684637004949</updated>
+      <workItem from="1684637006514" duration="12118000" />
+      <workItem from="1684681503446" duration="2946000" />
+      <workItem from="1684827876162" duration="7406000" />
+      <workItem from="1684839740212" duration="14779000" />
+      <workItem from="1684895798434" duration="19916000" />
+      <workItem from="1684988810336" duration="18841000" />
+      <workItem from="1685065394695" duration="12332000" />
+      <workItem from="1685153673866" duration="8236000" />
+      <workItem from="1685183014735" duration="9569000" />
+      <workItem from="1685374374439" duration="20000" />
+      <workItem from="1685528077615" duration="552000" />
+      <workItem from="1687076634857" duration="7026000" />
+      <workItem from="1687103121734" duration="8097000" />
+      <workItem from="1687228361546" duration="661000" />
+      <workItem from="1687231947846" duration="22603000" />
+      <workItem from="1687360393440" duration="961000" />
+    </task>
+    <task id="LOCAL-00001" summary="修改一下">
+      <created>1684849354418</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684849354418</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改一下" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改一下" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/shipping_new$OrderControllerTest.ic" NAME="OrderControllerTest Coverage Results" MODIFIED="1687350300180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.shipping.*</FILTER>
+    </SUITE>
+  </component>
+</project>
